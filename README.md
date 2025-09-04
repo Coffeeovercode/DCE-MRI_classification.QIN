@@ -5,9 +5,9 @@ Hybrid UNet Architectures for Breast Cancer Segmentation
 ## Project Overview
 This repository contains the code for implementing and training hybrid UNet-based models for segmenting breast cancer tumors from QIN DCE-MRI images. The project explores three powerful CNN backbones as encoders within the UNet architecture:
 
-    * UNet + MobileNetV2
+   * UNet + MobileNetV2
 
-    * UNet + ResNet50
+   * UNet + ResNet50
 
 The goal is to leverage the feature extraction power of these pre-trained models to improve the segmentation accuracy of the standard UNet architecture.
 
