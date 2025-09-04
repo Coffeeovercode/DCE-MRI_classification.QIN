@@ -1,0 +1,21 @@
+#Deep Learning Framework
+torch
+torchvision
+torchaudio
+
+#Scientific Computing & Data Handling
+numpy
+pandas
+scikit-image
+scikit-learn
+opencv-python-headless
+SimpleITK
+
+#Image Augmentation
+albumentations
+
+#Progress Bars
+tqdm
+
+#Tensorboard for logging
+tensorboard
